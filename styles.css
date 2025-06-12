@@ -1,0 +1,30 @@
+
+* {
+    margin:0px;
+    padding: 0px;
+}
+
+body {
+    background-color: gray;
+}
+
+.btn-primary, .search-input {
+    height: 10vh;
+    width: 10vw;
+    font-size: 15px;
+}
+
+
+
+#search {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+}
+
+#results div {
+    text-align: center;
+    border: 1px solid #000;
+    padding: 15px;
+    
+}
